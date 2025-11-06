@@ -103,7 +103,7 @@ streamlit run app/dashboard.py
 
 ---
 
-## 🎤 Presenting to Your Manager
+
 
 ### Follow these steps:
 
@@ -111,7 +111,7 @@ streamlit run app/dashboard.py
 2. **Run** the dashboard: `streamlit run app/dashboard.py`
 3. **Test** each tab to familiarize yourself
 4. **Follow** the presentation script in the guide
-5. **Be confident** - you built impressive work!
+
 
 ### Key Points to Emphasize:
 - Complete end-to-end ML pipeline
@@ -133,23 +133,6 @@ streamlit run app/dashboard.py
 
 ---
 
-## 🎓 What This Demonstrates
-
-### For Your Manager:
-- You can deliver complete, working solutions
-- You understand both technical and business aspects
-- You produce production-ready code
-- You can communicate complex work clearly
-
-### For Your Career:
-- Full-stack data science skills
-- ML model development and deployment
-- Data visualization and storytelling
-- Software engineering best practices
-
----
-
-## 📈 Next Steps (If Asked)
 
 ### Immediate Enhancements:
 1. Connect to live city sensor APIs
@@ -174,44 +157,20 @@ streamlit run app/dashboard.py
 - Demonstrates advanced skills
 - Is ready for production deployment
 
-**This is exactly what you want to show in a hackathon and to your manager for a promotion/raise.**
-
 ---
 
 ## 🚀 Action Items
 
 ### Before Your Manager Meeting:
 
-- [ ] Read the PRESENTATION_GUIDE.md thoroughly
-- [ ] Run the dashboard and test all features
-- [ ] Review the notebooks to understand the work
-- [ ] Practice explaining one model in detail
-- [ ] Prepare 2-3 questions you anticipate
 
-### During the Meeting:
 
-- [ ] Follow the presentation script
-- [ ] Demo the dashboard live
-- [ ] Highlight business value
-- [ ] Welcome questions confidently
-- [ ] Ask for feedback
 
-### After the Meeting:
 
-- [ ] Send follow-up email with README
-- [ ] Document any feedback received
-- [ ] Implement any quick suggestions
-- [ ] Schedule follow-up if needed
 
 ---
 
-## 💡 Pro Tips
-
-1. **Practice once** before the real meeting
-2. **Focus on business value**, not just technical details
-3. **Be enthusiastic** about your work
-4. **Have metrics ready** (87% accuracy, 1.2h MAE, etc.)
-5. **Show confidence** - you earned it!
+#
 
 ---
 
@@ -234,11 +193,6 @@ cd data_science && jupyter notebook notebooks/
 
 ---
 
-## 🎉 Congratulations!
-
-You have a complete, professional Data Science project ready to present.
-
-**Good luck with your presentation and salary discussion!**
 
 ---
 

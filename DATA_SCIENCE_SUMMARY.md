@@ -159,15 +159,6 @@ streamlit run app/dashboard.py
 
 ---
 
-## 🚀 Action Items
-
-### Before Your Manager Meeting:
-
-
-
-
-
-
 ---
 
 #
